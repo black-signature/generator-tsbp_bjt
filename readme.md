@@ -27,7 +27,7 @@ $ npm install
 Once the dependencies are installed, run 
 
 ```
-$ npm webpack-watch
+$ npm run webpack-watch
 ```
 
 This will generate an `app.bundle.js` inside the `build` folder. The build will get updated automatically as you make changes to the files inside `src` folder.
