@@ -35,7 +35,7 @@ This will generate an `app.bundle.js` inside the `build` folder. The build will 
 
 ## View the application
 
-Run the below command to start the server and view the application.
+Run the below command to start the server and view the application. You may ignore this step if a server is already running and you don't want to use this server.
 
 ```
 $ npm start
