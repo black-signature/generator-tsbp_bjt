@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "A simple typescript app generated using tsbp_bjt yeoman generator",
   "main": "",
-  "author": "Balu John Thomas - balu.j.thomas@pwc.com",
+  "author": "Balu John Thomas - balujohnthomas@gmail.com",
   "license": "ISC",
   "scripts": {
     "start-server": "http-server -c-1",
     "webpack-watch": "webpack --watch",
-    "start" : "npm run start-server && npm run webpack-watch"
+    "start": "npm run start-server"
   },
   "devDependencies": {
-    "http-server" : "^0.11.1",
+    "http-server": "^0.11.1",
     "ts-loader": "^4.1.0",
     "typescript": "^2.8.1",
     "webpack": "^4.4.1",

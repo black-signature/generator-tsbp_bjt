@@ -1,6 +1,6 @@
 {
   "name": "generator-tsbp_bjt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript boiler plate created by Balu John Thomas (BJT)",
   "main": "index.js",
   "repository": "black-signature/generator-tsbp_bjt",
